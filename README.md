@@ -1,2 +1,2 @@
-This is the repo for the Data Science Specialization track at Coursera.
+This is the repo for my Data Science Specialization track at Coursera.
 ===================
